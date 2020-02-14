@@ -1,0 +1,24 @@
+{
+  "name": "java-spring-thymeleaf-webpack",
+  "version": "1.0.0",
+  "description": "Setting up webpack",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -d --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunky84/java-spring-thymeleaf-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lunky84/java-spring-thymeleaf-webpack/issues"
+  },
+  "homepage": "https://github.com/lunky84/java-spring-thymeleaf-webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
